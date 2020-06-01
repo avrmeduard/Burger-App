@@ -1,0 +1,52 @@
+<resources>
+
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="Theme.MaterialComponents.Light.NoActionBar">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
+        <item name="colorAccent">@color/colorWhite</item>
+
+
+
+    <!--    <item name="boxCornerRadiusBottomStart">8dp</item>
+        <item name="boxCornerRadiusTopStart">8dp</item>
+        <item name="boxCornerRadiusTopEnd">8dp</item>
+        <item name="boxCornerRadiusBottomEnd">8dp</item>-->
+        <item name="boxBackgroundColor">@color/colorWhite</item>
+
+
+<!--        <item name="boxStrokeColor">@color/colorAccent</item>-->
+        <!--<item name="boxStrokeWidth">0.5dp</item>-->
+       <!-- <item name="boxStrokeWidthFocused">@color/colorPrimary</item>
+
+
+        <item name="android:textColorHint">@color/colorAccent</item>-->
+        <!--<item name="colorControlNormal">#000</item>
+        <item name="colorControlActivated">@color/colorPrimary</item>-->
+    </style>
+
+<!--    <style name="AppTextField" parent="Widget.MaterialComponents.TextInputLayout.FilledBox">-->
+
+<!--        <item name="boxCornerRadiusBottomStart">4dp</item>-->
+<!--        <item name="boxCornerRadiusTopStart">4dp</item>-->
+<!--        <item name="boxCornerRadiusTopEnd">4dp</item>-->
+<!--        <item name="boxCornerRadiusBottomEnd">4dp</item>-->
+<!--        <item name="boxBackgroundColor">@color/colorWhite</item>-->
+
+
+<!--        <item name="android:textColorHint">@color/colorPrimary</item>-->
+<!--        <item name="colorControlNormal">#000</item>-->
+<!--        <item name="colorControlActivated">@color/colorPrimary</item>-->
+<!--    </style>-->
+
+<!--        <item name="hintTextAppearance">@style/HintText</item>-->
+<!--        <item name="errorTextAppearance">@style/ErrorText</item>-->
+<!--        <item name="counterTextAppearance">@style/HintText</item>-->
+
+
+
+
+
+
+</resources>
